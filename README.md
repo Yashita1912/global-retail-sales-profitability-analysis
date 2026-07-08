@@ -26,6 +26,12 @@ The dataset contains over 51,000 retail transactions across multiple countries a
 - Tableau
 - Microsoft Excel
 
+- ## Tableau Public
+
+View the interactive dashboard here:
+
+https://public.tableau.com/app/profile/yashita.awasthi
+
 ## Repository Contents
 
 - Tableau Workbook (.twbx)
